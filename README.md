@@ -6,8 +6,8 @@ The Network Traffic Analysis Tool is a comprehensive solution for monitoring and
 ## Features
 - **Latency Measurement Tool**: Accurately measures latency using TCP and ICMP protocols, visualizing patterns for enhanced network performance analysis.
 - **Traffic Analysis Dashboard**: Monitors and tracks network traffic metrics for real-time performance evaluation and troubleshooting.
-- **Port Scanning Utility**: Identifies open ports on network devices, providing insights for security assessments and vulnerability management.
-- **Device Discovery Scanner**: Efficiently detects and catalogs devices on the local network, gathering essential details such as IP and MAC addresses.
+- **Port Mapping Utility**: Analyzes and identifies network services accessed by monitoring destination port traffic.
+- **Device Discovery Scanner**: Efficiently detects and catalogues devices on the local network, gathering essential details such as IP and MAC addresses.
 - **Network Threat Detection**: Monitors incoming traffic to identify potential network enumeration attempts and suspicious scanning patterns.
 - **Customizable Notifications**: Sends email alerts for suspicious activities and unauthorized devices.
 
