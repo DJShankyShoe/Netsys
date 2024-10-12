@@ -1,0 +1,12 @@
+psutil
+pyshark
+asyncio
+keyboard
+numpy
+matplotlib
+scipy
+requests
+netifaces
+ipaddress
+scapy
+dnspython
