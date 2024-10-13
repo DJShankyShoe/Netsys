@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Once all dependencies are installed, you can run the NetSys by executing the Python script:
 
 ```bash
-python netsys
+python netsys.py
 ```
 
 ## Legal Notice
